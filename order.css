@@ -1,0 +1,14 @@
+body {
+    width: 100%;
+    background: rgb(198, 215, 222);
+
+}
+
+
+.orderContainer {
+    background: rgba(27, 54, 82, 1);
+    margin: 20px;
+    padding: 10px;
+    box-shadow: 0 0 5px;
+    border-radius: 5px;
+}
